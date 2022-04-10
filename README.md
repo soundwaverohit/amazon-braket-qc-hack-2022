@@ -47,7 +47,7 @@ And the correct values computed for the hamiltonian thermal states are:
 Based on this we see a percente difference of about 1% in the calculations and this calculation was done with 1000 epochs.
 
 
-
+The result history can be seen in the QRBM_run_history.txt and the final values can be seen in QRBM_info.txt
 
 
 
@@ -75,3 +75,5 @@ Step 3: Run the jupyter notebook QBM.ipynb. Keep in mind the epochs and initial 
 Due to the lack of time could not compute several epoch runs therefore no graph available to show accuracy vs number of epochs however the above result is with the 1000 epochs.
 
 The VQE and the QAOA algorithms are copied from a library called grove and the code after VQE and QAOA are code written for this project and the implementation of QRBM.
+
+
